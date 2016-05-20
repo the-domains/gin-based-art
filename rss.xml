@@ -2,10 +2,17 @@
     <channel>
         <title><![CDATA[Gin Based Art]]></title>
         <description><![CDATA[Gin Based Art]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/gin-based-art/</link>
         <generator>The Grid</generator>
         <lastBuildDate>Fri, 20 May 2016 11:07:05 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <atom:link href="https://thegrid.ai/gin-based-art/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Best of CH 2015: Instagram]]></title>
+            <description><![CDATA[<article><h1>Best of CH 2015: Instagram</h1><p>Four and a half years ago we joined Instagram and have posted over 2,500 images since. More than 99% of the photographs we share, we ourselves have taken, and that's something we're quite proud of.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ba4db50512b8a051afebdafd36444e43d96e6161.jpg"></article>]]></description>
+            <link>http://www.coolhunting.com/culture/best-of-ch-2015-instagram</link>
+            <guid isPermaLink="false">39855f97-4a16-4916-9a3d-e0d293de834e</guid>
+            <pubDate>Fri, 20 May 2016 11:07:04 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[High Velocity Aerial Filming]]></title>
             <description><![CDATA[<article><h1>High Velocity Aerial Filming</h1><p>Aerial Filming took a giant leap forward when Blue Sky and Peter Degerfeldt challenged Gyro-stabilized Systems in Grass Valley, US, to build a GSS 520 5 axis system that would produce rock solid images at a speed of more than 300 knots per hour.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a4aa7ef75a0a8a8ecf32ab754c91f7cc08ad0d54.jpg"></article>]]></description>
